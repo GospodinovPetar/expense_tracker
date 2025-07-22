@@ -114,7 +114,7 @@ Once logged in to the Admin Panel, you'll be able to:
 
 
 
-
+> _Created by Petar Gospodinov_  
 
 
 
